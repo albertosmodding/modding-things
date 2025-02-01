@@ -1,0 +1,14 @@
+-- How to use unity explorer in steam games (some might not work, use at your own risk) --
+Step 1 - Go to the melonloader github (https://github.com/LavaGang/MelonLoader/releases)
+Step 2 - Go to releases and install the MelonLoader.x64.zip
+Step 3 - Open the MelonLoader.x64.zip in WinRAR and copy the MelonLoader and the version.dll and paste in the game files
+Step 4 - Start the game in Steam and at 30 seconds Alt+F4 (Quit the game)
+Step 5 - You should have some files added to the game files.
+Step 6 - Download the UnityExplorer.MelonLoader.IL2CPP.zip thing in the discord server (should be 3mb)
+Step 7 - In the folder there should be 2 folders names UserLibs and Mods.
+Step 8 - Drag the UnityExplorer.ML.dll (from the unity explorer mods folder) in the mods folder of your game
+Step 9 - Drag the UniverseLib.IL2CPP.dll (from the unity explorer UserLibs folder) in the UserLibs folder for your game
+LAST STEP - Start up the game on Steam and you are ready to go!
+
+P.S - There should be a console after Step 3, dont mind about it, and whenever you are done with the game, it should pop up and start the game in a few seconds.
+- @albertomodding
